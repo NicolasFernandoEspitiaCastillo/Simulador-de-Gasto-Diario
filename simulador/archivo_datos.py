@@ -1,4 +1,4 @@
-# archivo_datos.py
+
 import json
 
 # Cargar los datos desde el archivo JSON

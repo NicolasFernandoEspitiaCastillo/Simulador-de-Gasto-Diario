@@ -1,8 +1,8 @@
-# registrar_gasto.py
+
 from datetime import datetime
 import archivo_datos
 
-# Función para registrar un nuevo gasto
+# Registrar un nuevo gasto
 def registrar_gasto():
     cantidad = float(input("Ingrese la cantidad del gasto: "))
     categoria = input("Ingrese la categoría del gasto (ej. comida, transporte): ")

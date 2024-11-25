@@ -1,7 +1,7 @@
-# listar_gastos.py
+
 import archivo_datos
 
-# Función para listar todos los gastos
+# Listar todos los gastos
 def listar_gastos():
     gastos = archivo_datos.cargar_datos()
     categoria = input("Ingrese una categoría para filtrar (deje vacío para ver todos): ")

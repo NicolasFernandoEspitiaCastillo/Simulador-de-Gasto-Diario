@@ -1,4 +1,4 @@
-# main.py
+
 import registrar_gasto
 import listar_gastos
 import calcular_gastos
@@ -29,6 +29,6 @@ def iniciar_simulador():
         else:
             print("Opción no válida. Intente de nuevo.")
 
-# Llamar a la función principal
+# Función principal
 if __name__ == "__main__":
     iniciar_simulador()

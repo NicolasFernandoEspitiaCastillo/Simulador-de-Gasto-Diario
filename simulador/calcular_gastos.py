@@ -1,8 +1,8 @@
-# calcular_gastos.py
+
 from collections import defaultdict
 import archivo_datos
 
-# Función para calcular los gastos totales y por categoría
+# Calcular los gastos totales y por categoría
 def calcular_gastos_totales():
     gastos = archivo_datos.cargar_datos()
     

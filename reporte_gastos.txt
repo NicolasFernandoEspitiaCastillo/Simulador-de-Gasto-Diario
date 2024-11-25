@@ -1,0 +1,5 @@
+Reporte de Gastos
+Total General: 50000.0
+
+Gastos por Categoría:
+comida: 50000.0

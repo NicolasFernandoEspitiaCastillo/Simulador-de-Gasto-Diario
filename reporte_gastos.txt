@@ -1,5 +1,6 @@
 Reporte de Gastos
-Total General: 50000.0
+Total General: 500000.0
 
 Gastos por Categoría:
 comida: 50000.0
+trasnporte: 450000.0

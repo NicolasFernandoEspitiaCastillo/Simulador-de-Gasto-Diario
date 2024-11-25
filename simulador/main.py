@@ -1,6 +1,8 @@
 # main.py
 import registrar_gasto
 import listar_gastos
+import calcular_gastos
+import generar_reporte
 
 def iniciar_simulador():
     while True:

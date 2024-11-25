@@ -4,5 +4,11 @@
         "categoria": "comida",
         "descripcion": "hamburguesas",
         "fecha": "2024-11-25 01:01:05"
+    },
+    {
+        "cantidad": 450000.0,
+        "categoria": "trasnporte",
+        "descripcion": "viaje",
+        "fecha": "2024-11-25 01:17:10"
     }
 ]
